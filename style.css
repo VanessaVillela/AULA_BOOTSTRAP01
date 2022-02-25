@@ -1,0 +1,26 @@
+.navbar {
+    background-color: #544F52;
+}
+
+.quem-sou{
+    background-color: #000;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font: 20px;
+}
+
+.margin{
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.col-lg-6 p{
+    text-align: left;
+}
+
+.bg-footer{
+    background-color: #544F52;
+    color: white;
+    padding-top: 30px;
+    padding-bottom: 20px;
+}
